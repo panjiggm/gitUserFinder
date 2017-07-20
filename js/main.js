@@ -71,5 +71,5 @@ $(document).ready(function() {
         `);
     })
   })
-  console.log('hallo');
+  console.log('hallo ');
 });
